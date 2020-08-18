@@ -14,6 +14,6 @@ We will create a simple todo app. We will build all the functionalitis from scra
 In this task we would like to:
 
 1. Explore the folder structure and the javascript files. What's the entry point of our app? What is this funky html called [JSX](https://reactjs.org/docs/introducing-jsx.html)?
-2. Let's try to print Hello World to our app, instread of the default message from React.
+2. Let's try to print Hello World to our app, instead of the default message from React.
 3. Let's get rid of what we don't need like unused images.
 4. I don't see any .scss files around. Let's add one.
